@@ -100,6 +100,21 @@ Hasilnya :
 
 ![10a](https://user-images.githubusercontent.com/56242226/116362712-8d71b980-a82c-11eb-84ef-5019ed36abf9.PNG)
 
+# Pertanyaan dan Tugas
+# 1. Buat script untuk melakukan validasi pada isian form.
+
+![tugas1](https://user-images.githubusercontent.com/56242226/116363956-dfffa580-a82d-11eb-95c4-0fa236d17b88.PNG)
+![tugas1a](https://user-images.githubusercontent.com/56242226/116363990-ebeb6780-a82d-11eb-82ce-dcc2a55300e2.PNG)
+![tugas1aa](https://user-images.githubusercontent.com/56242226/116364020-f4dc3900-a82d-11eb-9ae0-80a38018555e.PNG)
+
+Hasil Outputnya : 
+
+![tugas2](https://user-images.githubusercontent.com/56242226/116364237-310f9980-a82e-11eb-8217-988efeb69825.PNG)
+
+
+
+
+
 
 
 
