@@ -111,6 +111,9 @@ Hasil Outputnya :
 
 ![tugas2](https://user-images.githubusercontent.com/56242226/116364237-310f9980-a82e-11eb-8217-988efeb69825.PNG)
 
+# Jika salah satu form nya tidak di isi maka tombol daptar tidak akan aktif 
+
+![TUGAS33](https://user-images.githubusercontent.com/56242226/116493669-64ebcd00-a8c9-11eb-9843-2b5b5fe29f6d.PNG)
 
 
 
